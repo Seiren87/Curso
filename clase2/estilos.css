@@ -1,0 +1,27 @@
+body {
+    color: brown;
+}
+
+header {
+    color: rgb(51, 0, 255);
+}
+
+p {
+    color: rgb(37, 249, 29)
+}
+
+li {
+    color: blueviolet;
+}
+
+h2 {
+    color: green;
+}
+
+.rojo {
+    color: red;
+}
+
+footer {
+    color: rgb(1, 9, 66);
+}
