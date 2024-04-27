@@ -1,3 +1,25 @@
-body {
-    background-color: blue;
+* {
+  background-color: rgb(212, 163, 101);
 }
+
+.menuSuperior {
+  color: white;
+  font-family: "Patrick Hand", cursive;
+  font-weight: 1000;
+  font-style: normal;
+}
+
+p {
+  color: rgb(255, 38, 38);
+  font-family: "Patrick Hand", cursive;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.listas {
+  color: rgb(0, 0, 255);
+  background-image: url(./Imagenes/lapida.png);
+}
+
+h1{color: rgb(15, 136, 31);}
+
