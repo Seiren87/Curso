@@ -19,7 +19,13 @@ p {
 .listas {
   color: rgb(0, 0, 255);
   background-image: url(./Imagenes/lapida.png);
+  margin-left: 0%;
+  padding-left: 0px;
+  padding-right: 0%;
+  content;
+
 }
 
-h1{color: rgb(15, 136, 31);}
-
+h1 {
+  color: rgb(15, 136, 31);
+}
